@@ -1,0 +1,69 @@
+[
+
+    {
+            "id":1,
+            "category_id": 1,
+            "brand_id":1,
+            "name":"Hp",
+            "price": "120k",
+            "discount":"10%",
+            "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/apple-macbook-air-late-2020-apple-m1-chip-133-11654336746.webp",
+            "description": "Apple MacBook Air (Late 2020) Apple M1 Chip 13.3 Inch Retina Display Space Gray MacBook #Z124000AL" 
+        
+    },
+    {
+        "id":2,
+        "category_id": 1,
+        "brand_id":1,
+        "name":"Lenovo",
+        "price": "50k",
+        "discount":"13%",
+        "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/apple-macbook-pro-late-2021-apple-m1-pro-chip-11663048450.webp",
+        "description": "Apple MacBook Pro (Late 2021) Apple M1 Pro Chip Silver Laptop #Z15J0022W" 
+    
+},
+{
+        "id":3,
+        "category_id": 1,
+        "brand_id":1,
+        "name":"Dell",
+        "price": "50k",
+        "discount":"7%",
+        "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/apple-macbook-pro-late-2021-apple-m1-max-chip-11664279203.webp",
+        "description": "Apple MacBook Pro (Late 2021) Apple M1 Max Chip 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop #Z15H00107" 
+    
+},
+{
+        "id":4,
+        "category_id": 1,
+        "brand_id":1,
+        "name":"Asus",
+        "price": "56k",
+        "discount":"8%",
+        "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/apple-macbook-pro-2022-apple-m2-chip-133-inch-11655557152.webp",
+        "description": "Apple MacBook Pro (2022) Apple M2 Chip 13.3 Inch Retina Display Space Gray Laptop" 
+    
+},
+{
+        "id":5,
+        "category_id": 1,
+        "brand_id":1,
+        "name":"Acer",
+        "price": "55k",
+        "discount":"11%",
+        "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/asus-vivobook-s15-s513ea-intel-core-i3-1115g4-11656764701.webp",
+        "description": "Asus VivoBook S15 S513EA Intel Core i3 1115G4 15.6 Inch FHD OLED Display Indie Black Laptop #L13076W-S513EA" 
+    
+},
+{
+        "id":6,
+        "category_id": 1,
+        "brand_id":1,
+        "name":"Microsoft",
+        "price": "45k",
+        "discount":"15%",
+        "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/microsoft-surface-laptop-4-amd-ryzen-7-4980u-15-11651301139.webp",
+        "description": "Asus VivoBook S15 S513EA Intel Core i3 1115G4 15.6 Inch FHD OLED Display Indie Black Laptop #L13076W-S513EA" 
+    
+}
+]
